@@ -1,0 +1,74 @@
+class Demo2 
+{
+	public static void main(String[] args) 
+	{
+		//byte b1 = 127;
+		//byte b2 = 128;
+		//byte b3 = -129;
+		
+		
+		long l = 10;
+		long l2 = 10l;
+		long l3 = 10L; 
+		
+			
+		//int x = 23l;
+		int x2 = 10;
+		long y = x2;
+		
+		
+		//int x =10;
+		//byte b = x;
+		
+		
+		
+		//float f = 1.4;
+		float f2 = 1.3f;
+		float f3 = 1.3F;
+		
+		
+		double d1 = 1.4D;
+		double d2 = 1.3d;
+		double d3 = 1.3;
+		
+		double d4 = 1.3f;
+		//int x = 1.3f;
+		//long x = 1.3f;
+		
+		
+		//char c1 = a;
+		char c2 = 'a';
+		//char c3 = 'ab';
+		char c4 = '5';
+		char c5 = ' ';
+		//char c6 = '  ';
+		//char c7 = '';
+		
+		
+	}
+}
+
+
+// class Demo 
+// {
+// 	public static void main(String[] args) 
+// 	{
+// 		//Integral
+// 		byte b = 23;
+// 		short s = 123;
+// 		int i = 234;
+// 		long l = 3458;
+// 		int rajesh = 12343uljeghr;
+// 		//Decimal
+// 		float f = 3;
+// 		double d = 34.35;
+// 		//Character
+// 		char c = 'c';
+// 		//Boolean
+// 		boolean b2 = true;
+// 		System.out.println(b);
+// 		System.out.println(s);
+// 		System.out.println(c);
+// 		System.out.println(rajesh);
+// 	}
+// }
